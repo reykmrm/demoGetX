@@ -18,7 +18,7 @@ class Contador extends StatelessWidget {
             onPressed: () {
               gx.aContador();
             },
-            child: Text('Presionar'),
+            child:const Text('Presionar'),
           )
         ],
       ),
